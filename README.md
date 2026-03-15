@@ -11,7 +11,3 @@ Key Components:
 • Relay
 WORKINGPRINCIPLE:
 Multipurpose agricultural machine is wireless remote operated & designed and fabricated as a multipurpose equipment which is used for agricultural processes like ploughing, sowingseeds and sprinkling water. This machine works in both directions when it is pushed forward it ploughs the field with the help of plough.The height of the plough can bead justed ,with the help of screw arrangement and the seed feeder is mounted directly to the motor.The motor rotates and the shaft attached to it has holes.The motor is directly attached to the shaft with holes.When we push the agriculture machine in a backward direction,we can pick the plough  up from the ground and the pump which is attached to the front shaft will start pumping the water from the tank and it will sprinkle water over the field.
-
-2.Remotetransmitscommandthroughwirelessmodule.
-3.Receiversendssignaltomicrocontroller.
-4.Microcontrolleractivatescorrespondingmotors/attachments
